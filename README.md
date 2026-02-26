@@ -1,39 +1,50 @@
-# 👋 Hi, I'm Adarsh Jaiswal
+<!-- ===================== HEADER ===================== -->
 
+<h1 align="center">Hi 👋, I'm Adarsh Jaiswal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Control+Systems+Engineer;Learning-Enabled+Autonomy;Stochastic+MPC+%7C+Robust+Control;PhD+Applicant&center=true&width=500&height=45">
+</p>
+
+<p align="center">
 🎓 M.Tech — Control Systems Engineering, IIT Kharagpur  
-⚙️ Interested in Autonomous Systems • Stochastic MPC • Robust Control • Embedded Systems  
-📍 India  
+<br>
+🔬 Research Focus: Safe Autonomous Systems • Stochastic MPC • Robust Control  
+<br>
+📍 India
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎯 Research Vision (PhD Focus)
 
-I am a Control Systems graduate student at IIT Kharagpur working on **safe navigation and learning-enabled control systems**. My research focuses on combining:
+I am interested in pursuing a **PhD in Control, Robotics, and Autonomous Systems**, with emphasis on:
 
-- 🤖 Learning-based autonomy  
-- 📉 Stochastic Model Predictive Control  
-- 🛡️ Distributionally Robust Optimization  
-- 🔌 Embedded & FPGA-based control  
+- Learning-enabled safe control  
+- Distributionally robust & stochastic MPC  
+- Formal safety guarantees  
+- Real-time embedded control systems  
 
-I enjoy building systems that are **mathematically rigorous and practically deployable**.
+My goal is to develop **theoretically grounded yet deployable autonomy algorithms** for safety-critical systems.
 
 ---
 
 ## 🔬 Current Research
 
-🧠 **Safe Robot Navigation in Uncertain Environments**  
+**Safe Robot Navigation in Uncertain Environments**
+
 - Conformal prediction for probabilistic safety  
 - Stochastic MPC under distribution shift  
 - Robust motion planning in dynamic environments  
@@ -42,62 +53,66 @@ I enjoy building systems that are **mathematically rigorous and practically depl
 
 ## 🛠 Technical Skills
 
-### 👨‍💻 Programming
-`C++` `Python` `Verilog`
-
-### 📊 Control & Optimization
-`MATLAB/Simulink` `CasADi` `Gurobi` `YALMIP`
-
-### 🔧 Tools
-`LTSpice` `Quartus` `ModelSim` `VS Code` `LaTeX` `Git`
-
-### ⚡ Hardware
-`FPGA` `TI C2000 Delfino` `ARM7` `8085` `Linux`
+**Languages:** `C++` `Python` `Verilog`  
+**Control & Optimization:** `MATLAB/Simulink` `CasADi` `Gurobi` `YALMIP`  
+**Tools:** `LTSpice` `Quartus` `ModelSim` `LaTeX` `Git`  
+**Hardware:** `FPGA` `TI C2000` `ARM7` `8085` `Linux`
 
 ---
 
-## 📂 Featured Projects
+## 📂 Selected Projects
 
-### 🤖 2-DOF State Feedback Control of Flexible Manipulator
-- Euler–Lagrange state-space modeling  
-- Real-time hardware validation  
-- ✔️ 0% undershoot  
-- ✔️ GM > 6 dB, PM > 45°  
-- ✔️ Peak overshoot < 5%  
+### 🧠 Safe Navigation with Conformal Prediction
+> Learning-enabled autonomous navigation with probabilistic guarantees  
+- Stochastic MPC + DRO  
+- Safety under distribution shift  
+- Dynamic environment validation  
 
 ---
 
-### ⚡ FPGA Digital Controller Implementation
-- Optimized Verilog design  
-- Transfer function realization  
-- Boost converter control for solar PV  
+### 🤖 Flexible Manipulator Control (2-DOF)
+> State-feedback control with hardware validation  
+- Euler–Lagrange modeling  
+- 0% undershoot  
+- GM > 6 dB, PM > 45°  
+- Peak OS < 5%  
+
+---
+
+### ⚡ FPGA Digital Controller
+> Verilog-based transfer function realization  
+- Resource-optimized design  
+- Boost converter control  
+- Simulation + hardware validation  
 
 ---
 
 ### 📱 IoT Smart Energy Meter
-- Cloud-connected energy monitoring  
-- Mobile app load control  
-- Real-time user data management  
+> Cloud-connected smart metering  
+- Mobile load control  
+- Real-time monitoring  
+- IoT data pipeline  
 
 ---
 
-## 💼 Internship Experience
+## 💼 Research Experience
 
-**Variable Energy Cyclotron Centre, Kolkata**  
+**Variable Energy Cyclotron Centre, Kolkata**
+
 - Voltage equalization for series HV IGBTs  
-- Passive snubber protection design  
+- Passive snubber protection  
 - Improved power electronics reliability  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Honors
 
-🥇 Soumya Bhattacharyya Memorial Award (2023-24)  
-🎖 Tarun Kanti Ghose Memorial Scholarship (2022-23)  
+- 🥇 Soumya Bhattacharyya Memorial Award (2023–24)  
+- 🎖 Tarun Kanti Ghose Memorial Scholarship (2022–23)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="165">
@@ -106,33 +121,23 @@ I enjoy building systems that are **mathematically rigorous and practically depl
 
 ---
 
-## 👨‍🏫 Leadership
-
-**Teaching Assistant — Control & Instrumentation Lab**  
-- Guided students in MATLAB/Simulink experiments  
-
-**Instructor — MATLAB/Simulink Workshop**  
-- Delivered hands-on control systems training  
-
----
-
 ## 📄 Resume
 
-📌 See full resume in this repository: `My_CV.pdf`
+📌 Available in repository: `My_CV.pdf`
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Open To
 
-I am open to:
-
-- 🎓 PhD opportunities  
-- 🤖 Robotics & control research  
+- 🎓 PhD positions (Fall 2026+)  
+- 🤖 Robotics & autonomy research  
 - ⚙️ Advanced control engineering roles  
-- 🤝 Technical collaborations  
+- 🤝 Academic collaborations  
 
-📫 Reach me at: **YOUR_EMAIL**
+📫 **Email:** YOUR_EMAIL
 
 ---
 
-⭐ *If you find my work interesting, consider starring the repositories!*
+<p align="center">
+⭐ If my work interests you, consider starring the repo!
+</p>
